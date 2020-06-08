@@ -1,0 +1,58 @@
+.ikinciekran{
+  margin-left: 10px;
+  width: 1000px;
+  background-color: ;
+  margin: 5px 5px 5px 5px;
+  height: 40px;
+  border: 500px;
+
+}
+.giris{
+  margin-left:15px;
+
+}
+.giris img{
+  padding-left:300px;
+  position:absolute;
+  top: 75px;
+
+
+}
+.ikinciekran a{
+text-decoration: none;
+}
+
+.dördüncü{
+  margin-left: 10px;
+
+}
+.dördüncü h2{
+  color: red;
+}
+.dördüncü h3{
+  color: blue;
+}
+.ikici{
+
+  width: 150px;
+  float: left;
+  font-size: 25px;
+  border: 50px;
+  margin-top: 5px;
+  text-align: center;
+
+}
+.bu{
+
+  height: 100px;
+  margin: auto;
+  background-color:white;
+  width: 1020px;
+  padding-top: 20px;
+  padding-bottom: 1500px;
+}
+.o{
+
+  padding-top: 50px;
+  background-color:#1555;
+}
